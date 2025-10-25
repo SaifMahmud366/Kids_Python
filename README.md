@@ -102,6 +102,8 @@ Note: Many projects work with standard Python only. Turtle graphics come with Py
 
 Ideas for gentle lessons? Typos to fix? Open a pull request or start a discussion with your idea. Keep examples short, kind, and age‑friendly.
 
+This project follows a friendly Code of Conduct. By participating, you agree to uphold it. Please read `CODE_OF_CONDUCT.md`.
+
 ## License 📜
 
 This project is open source. See the `LICENSE` file for details.
